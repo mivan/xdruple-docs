@@ -1,18 +1,6 @@
 # xDruple documentation
 
-## Intro
-
-- General Overview of our system
-- Our development stack
-- Development Environment
-- Our Methodology
-
-## Other Technologies
-
-- Compass
-- SASS
-- Drupal/Bootstrap Module
-- Vagrant
+- Overview of xDruple technology stack
 
 ## xTuple REST API
 
