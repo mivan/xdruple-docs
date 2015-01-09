@@ -49,6 +49,10 @@ We have to differ the same term "Code-Driven Drupal" that may be used in few mea
 
 [Twitter Bootstrap](http://getbootstrap.com) is a CSS framework that provides decent set of front-end elements and good mobile/responsive support. As we've already been using SASS/Compass, we connect Bootstrap via official [Bootstrap for SASS](https://github.com/twbs/bootstrap-sass) port. But we not only connect Bootstrap styles to the project, but also have a [Bootstrap 3](https://github.com/CodeDrivenDrupal/bootstrap3) Drupal module. This module integrates Bootstrap very deep into Drupal by overriding default theming functions and behaviors.
 
+## Vagrant
+
+All up to date Vagrant setup documentation is located in [`vagrant.md`](https://github.com/xtuple/xdruple-server/blob/master/vagrant.md) file in [xdruple-server](https://github.com/xtuple/xdruple-server) project. (__NB__ This project is currently _Private_ and you need to be an xTuple partner to access it).
+
 ## Modifications to Standard Drupal
 
 All changes list to the Drupal core is kept in [`docs/changes.md`](https://github.com/CodeDrivenDrupal/code-driven-drupal/blob/master/docs/changes.md) file in [Code-Driven Drupal](https://github.com/CodeDrivenDrupal/code-driven-drupal) repository.
