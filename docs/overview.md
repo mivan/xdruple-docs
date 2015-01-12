@@ -43,7 +43,7 @@ We have to differ the same term "Code-Driven Drupal" that may be used in few mea
 
 ## SASS/Compass
 
-[SASS](http://sass-lang.com) is a language that compiles into CSS. It provides a lot of syntax sugar, including mixins and variables, which allows to simplify theming. [Compass](http://compass-style.org) is a framework for SASS. It provides it's own project structure, configuration and additional set of mixins. We use Compass via our own Drupal module [Compass](git@github.com:CodeDrivenDrupal/compass.git). This module allows other Drupal modules and themes declare the support of Compass, write their own styles in SASS and see re-compiled results immediately (after page reload, of course).
+[SASS](http://sass-lang.com) is a language that compiles into CSS. It provides a lot of syntax sugar, including mixins and variables, which allows to simplify theming. [Compass](http://compass-style.org) is a framework for SASS. It provides it's own project structure, configuration and additional set of mixins. We use Compass via our own Drupal module [Compass](https://github.com/CodeDrivenDrupal/compass/). This module allows other Drupal modules and themes declare the support of Compass, write their own styles in SASS and see re-compiled results immediately (after page reload, of course). Full documentation of this module contains in [`README.md`](https://github.com/CodeDrivenDrupal/compass/blob/master/README.md) in the module repository.
 
 ## Twitter Bootstrap 3
 
